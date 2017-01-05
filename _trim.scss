@@ -18,6 +18,8 @@ Removes unncessary margins from a child element.
 ```
 */
 
+@import './_mixins';
+
 .u-trim {
     @include trim();
 }
