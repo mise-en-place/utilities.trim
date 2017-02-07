@@ -18,5 +18,8 @@
     "url": "https://github.com/mise-en-place/utilities.trim.git"
   },
   "author": "Kind",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mep-tools.trim": "github:mise-en-place/tools.trim"
+  }
 }
