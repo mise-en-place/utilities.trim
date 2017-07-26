@@ -1,6 +1,6 @@
 {
   "name": "mep-utilities.trim",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Trim Utility",
   "main": "stylesheets/_utility-trim.scss",
   "keywords": [
@@ -14,6 +14,6 @@
   "author": "Kind",
   "license": "MIT",
   "dependencies": {
-    "mep-tools.trim": "github:mise-en-place/tools.trim"
+    "mep-tools.trim": "github:mise-en-place/tools.trim#2.0.0"
   }
 }
